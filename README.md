@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This tool provides an estimate of AdSense eligibility based on common factors. The final decision for AdSense approval rests with Google and may depend on additional factors not covered by this tool. 
+This tool provides an estimate of AdSense eligibility based on common factors. The final decision for AdSense approval rests with Google and may depend on additional factors not covered by this tool.
